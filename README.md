@@ -34,6 +34,12 @@ O trabalho compreendeu, principalmente, as etapas descritas a seguir:
 
 ---
 
+## Arquivo .ipynb
+
+O arquivo .ipynb deste repositório realiza o processo completo de integração e análise de dados de criminalidade e meteorologia do município de Passo Fundo. Inicialmente, são carregados os arquivos originais, com verificação de estrutura e existência dos diretórios, seguida da padronização dos dados, tratamento de valores ausentes, remoção de duplicatas e correção de tipos, especialmente a conversão da coluna de data para formato adequado. Em seguida, os dados são agregados em uma base analítica diária, permitindo a análise temporal das ocorrências, e posteriormente integrados com as variáveis meteorológicas por meio de operações de merge. Como resultado, são geradas bases finais tratadas (normalizada, analítica diária e integrada), além de visualizações gráficas e análises de correlação, possibilitando a identificação de padrões e possíveis relações entre fatores climáticos e a variação dos índices de criminalidade ao longo do tempo.
+
+---
+
 ## Estrutura
 
 - Importação e leitura de datasets (CSV/Google Drive)  
