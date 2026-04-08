@@ -65,6 +65,8 @@ O arquivo .ipynb deste repositório realiza o processo completo de integração 
 
 ---
 
+## Observações
+
 Ressalta-se que, por se tratar de um projeto inserido no contexto de Machine Learning, os modelos e análises desenvolvidos são passíveis de evolução contínua. Dessa forma, o trabalho não deve ser interpretado como uma solução final e definitiva, mas sim como uma etapa inicial voltada à aplicação prática dos conceitos estudados.
 
 Considerando a complexidade do tema, a constante evolução das técnicas de análise de dados e o desenvolvimento acadêmico dos participantes, existe amplo espaço para futuras melhorias, incluindo refinamento de modelos, ampliação das bases de dados e aprofundamento das análises, caso o projeto venha a ser expandido.
