@@ -10,6 +10,12 @@
 
 ---
 
+## Link dos Dados utilizados
+
+https://drive.google.com/drive/folders/1SAi2JR1rAIfWbtSieo5mchved9_F8nc2?usp=drive_link
+
+---
+
 ## Resumo
 
 O projeto de Integração, Análise e Insights de Dados de Criminalidade e Meteorologia, proposto pelo Prof. Fernando Posser na disciplina de Machine Learning e Inteligência Artificial, tem como objetivo principal investigar a existência de relações entre variáveis climáticas e a ocorrência de crimes, por meio da integração e análise de bases de dados públicas.
