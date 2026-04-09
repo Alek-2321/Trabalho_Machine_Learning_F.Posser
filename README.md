@@ -45,7 +45,9 @@ O arquivo .ipynb deste repositório realiza o processo completo de integração 
 - Importação e leitura de datasets (CSV/Google Drive)  
 - Pré-processamento dos dados (limpeza, tratamento de valores nulos e padronização)  
 - Integração dos dados por meio de merge com base temporal  
-- Análise exploratória de dados (EDA) com construção de visualizações  
+- Análise exploratória de dados (EDA) com construção de visualizações
+
+- OBSERVAÇÃO: essas quatro macro-etapas foram desdobradas em 7 micro-etapas visando atingir os desafios propostos no enunciado do Projeto, que foram apresentas pelos participantes ao Professor da Disciplina.  
 
 ---
 
